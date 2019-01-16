@@ -1,4 +1,4 @@
-# Announcement-Bar-Plugin
+# Notify-Bar-Plugin
 CakeAndSugarArt: Notify-Bar-Plugin
 
 This Repository is the development of the annoucement system at the top of our website.
